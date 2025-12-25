@@ -10,7 +10,7 @@
 - Data Structures & Algorithms  
 
 🌐 **Let’s Connect** 
-- 💼 LinkedIn: [*(add link if you want)* ](https://www.linkedin.com/in/udaybhan-yadav-b37b5b30b/) 
+- 💼 LinkedIn: [*(LinkedIn)* ](https://www.linkedin.com/in/udaybhan-yadav-b37b5b30b/) 
 
 💡 *Consistent progress > overnight success* 
 
