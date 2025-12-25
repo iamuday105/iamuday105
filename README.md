@@ -1,10 +1,18 @@
-<!-- simple bio and stats -->
 # 👋 Hi, I'm Uday Yadav!
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-🎓 B.Tech Graduate from Pune University, Maharashtra<br/>
-🌷 Follow my #learninginpublic journey on [Twitter](https://x.com/uday105_)<br/>
-💭 Currently learning about ReactNative and DSA!<br/>
+👨‍💻 Software Engineer passionate about building products and learning every day  
+🎓 B.Tech Graduate from Pune University, Maharashtra  
+👨‍💻 Full-Stack Software Engineer with strong Frontend expertise  
+🌱 Believer in learning by building and sharing in public  
+
+🔍 **Currently Learning**
+- React Native
+- Data Structures & Algorithms  
+
+🌐 **Let’s Connect** 
+- 💼 LinkedIn: [*(add link if you want)* ](https://www.linkedin.com/in/udaybhan-yadav-b37b5b30b/) 
+
+💡 *Consistent progress > overnight success* 
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamuday105&show_icons=true&theme=transparent)
