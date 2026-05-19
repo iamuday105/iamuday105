@@ -2,10 +2,11 @@
 
 👨‍💻 Software Engineer passionate about building products and learning every day  
 🎓 B.Tech Graduate from Pune University, Maharashtra  
-👨‍💻 Full-Stack Software Engineer with strong Frontend expertise  
+👨‍💻 Full-Stack Software Engineer with strong Backend expertise  
 🌱 Believer in learning by building and sharing in public  
 
 🔍 **Currently Learning**
+- Python
 - React Native
 - Data Structures & Algorithms  
 
